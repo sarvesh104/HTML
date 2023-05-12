@@ -6,7 +6,8 @@ body{
     font-family: 'Roboto', sans-serif;
     color: #555;
     line-height: 1.6;
-    
+    background-color: #f5f5f5;
+
     }
 
 .date{
@@ -16,6 +17,7 @@ body{
     font-style: italic;
     font-family: 'Roboto', sans-serif;
     color: #555;
+    text-align: center;
 }
 .article{
     width: 60%;
@@ -37,4 +39,52 @@ body{
     display: contents;
     justify-content: left;
     align-content:end;
+    margin: 0 auto;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    color: #555;
+    
 }
+
+
+.imgsd img{
+    width: 30%;
+    height: 30%;
+    border-radius: 10%;
+    margin: 0 auto;
+    display: block;
+    }
+
+
+    .imgsd img:hover{
+        width: 30%;
+        height: 30%;
+        border-radius: 10%;
+        margin: 0 auto;
+        display: block;
+        }
+
+    .ar-list{
+        width: 70%;
+        display: contents;
+        justify-content: left;
+        align-content:end;
+        margin: 0 auto;
+        font-size: 20px;
+        font-family: 'Roboto', sans-serif;
+        color: #555;
+        }
+        .ar-title{
+            width: 70%;
+            display: contents;
+            justify-content: left;
+            align-content:end;
+            margin: 0 auto;
+            font-size: 20px;
+            font-family: 'Roboto', sans-serif;
+            color: #555;
+
+
+        }
+        
+    
